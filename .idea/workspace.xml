@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="496b7fa2-43f7-4b73-b7b9-2ee5e6510b9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/foundations/subArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/foundations/subArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ceilFloor">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ceilFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="foundations.ceilFloor" />
       <module name="DSA" />
@@ -55,21 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="decimalToAnyBase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foundations.decimalToAnyBase" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="foundations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="digitFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foundations.digitFrequency" />
+    <configuration name="firstAndLastIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="foundations.firstAndLastIndex" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.firstAndLastIndex" />
         <item itemvalue="Application.ceilFloor" />
         <item itemvalue="Application.subArray" />
         <item itemvalue="Application.inverseArray" />
-        <item itemvalue="Application.decimalToAnyBase" />
-        <item itemvalue="Application.digitFrequency" />
       </list>
     </recent_temporary>
   </component>
@@ -146,6 +140,11 @@
           <url>file://$PROJECT_DIR$/src/foundations/countDigits.java</url>
           <line>18</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/foundations/firstAndLastIndex.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
