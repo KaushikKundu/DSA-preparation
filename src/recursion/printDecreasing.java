@@ -1,6 +1,6 @@
 package recursion;
 
-public class nTo1 {
+public class printDecreasing {
     public static void main(String[] args) {
         printNto1(5);
     }
