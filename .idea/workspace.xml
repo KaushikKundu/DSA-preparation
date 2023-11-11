@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="496b7fa2-43f7-4b73-b7b9-2ee5e6510b9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sorting/selectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/selectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sorting/cyclicSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/cyclicSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +42,10 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.cyclicSort">
+  <component name="RunManager" selected="Application.nTo1">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ceilFloor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="foundations.ceilFloor" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="foundations.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -89,6 +76,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nTo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.nTo1" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="secondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="secondLargest" />
       <module name="DSA" />
@@ -98,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nTo1" />
         <item itemvalue="Application.cyclicSort" />
         <item itemvalue="Application.secondLargest" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.firstAndLastIndex" />
-        <item itemvalue="Application.ceilFloor" />
       </list>
     </recent_temporary>
   </component>
