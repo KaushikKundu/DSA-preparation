@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="496b7fa2-43f7-4b73-b7b9-2ee5e6510b9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/subset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/subset.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
